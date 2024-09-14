@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : C:\Users\eSpark\Desktop\coopertaylor-ascii-hw\Design-Files\ASCII-v1.1\ASCII-v1.1.PcbDoc
+Date         : 9/14/2024
+Time         : 6:03:45 PM
+Time Elapsed : 00:00:01
+
+Routing Information
+    Routing completion, 91.72%
+    Connections, 157
+    Connections routed, 144
+    Connections remaining, 13
+count : 4
+
+Net Track Width, Count
+    8mils, 36
+    10mils, 2
+count : 2
