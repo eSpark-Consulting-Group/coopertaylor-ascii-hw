@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JXBJNFXN
 
 [Document5]
-DocumentPath=ASCII-v1.1.PcbDoc
+DocumentPath=ASCII-v1.2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
