@@ -264,10 +264,14 @@ DocumentPath=Project Outputs for ASCII-v1.1\Design Rule Check - ASCII-v1.html
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for ASCII-v1.1\Pick Place for ASCII-v1.1.csv
+DocumentPath=Project Outputs for ASCII-v1.2\Design Rule Check - ASCII-v1.html
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs for ASCII-v1.1\Pick Place for ASCII-v1.1.csv
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for ASCII-v1.1\Pick Place for ASCII-v1.1.txt
 DItemRevisionGUID=
 
