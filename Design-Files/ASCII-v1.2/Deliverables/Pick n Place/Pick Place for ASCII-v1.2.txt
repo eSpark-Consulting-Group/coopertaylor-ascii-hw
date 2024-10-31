@@ -5,8 +5,8 @@ C:\Users\eSpark\Desktop\coopertaylor-ascii-hw\Design-Files\ASCII-v1.2\Project Ou
 File Design Information:
 
 Date:       31/10/24
-Time:       14:36
-Revision:   9dc580ca31415117a9cdcfe295c0d508f28851d3
+Time:       17:02
+Revision:   5ca2a62ed204f7df7ab6e4af30149e4d21e6b275
 Variant:    No variations
 Units used: mm
 
@@ -129,7 +129,7 @@ J18        46.2229      11.6147      TopLayer    90       46.2229   11.6147   44
 J19        16.8094      80.4164      TopLayer    0        16.8094   80.4164   15.5594   80.4164   
 J20        47.5996      63.5000      TopLayer    270      47.5996   63.5000   46.3371   66.0000   
 J21        46.9138      87.0712      TopLayer    90       46.9138   87.0712   44.9763   85.5712   
-L1         4.2164       33.9090      BottomLayer 90       4.2164    33.9090   4.2164    32.2840   
+L1         4.2164       33.9090      BottomLayer 90       4.2164    33.9090   4.2164    31.8615   
 L2         6.8679       33.9344      TopLayer    180      6.8679    33.9344   8.9154    33.9344   
 L3         16.9506      15.4800      TopLayer    0        16.9506   15.4800   14.1506   15.4800   
 L4         8.8700       41.1988      BottomLayer 180      8.8700    41.1988   10.7950   41.1988   
