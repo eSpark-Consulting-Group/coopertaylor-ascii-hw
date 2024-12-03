@@ -83,23 +83,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MQDLUJTN
 
 [Document3]
-DocumentPath=Controller_Section.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OWVCUPBT
-
-[Document4]
 DocumentPath=Top_Section.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXBJNFXN
 
-[Document5]
+[Document4]
 DocumentPath=ASCII-v2.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FCLECACF
 
-[Document6]
+[Document5]
 DocumentPath=ASCII-v1.2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=Teensy_4.1_Section(B).SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,6 +149,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDNNZYWF
+
+[Document7]
+DocumentPath=Sensor_Section.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SRJACYPE
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ASCII-v1.2\ASCII-v1.2-RoundHoles.TXT
